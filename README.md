@@ -6,9 +6,7 @@
 
 <br />
 
-<!-- LINKEDIN: replace YOUR-HANDLE, then remove these comment markers
-<a href="https://www.linkedin.com/in/YOUR-HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-Connect-70a5fd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn" /></a>
--->
+<a href="https://www.linkedin.com/in/vivek-kumar-b7482777/"><img src="https://img.shields.io/badge/LinkedIn-Connect-70a5fd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn" /></a>
 <a href="https://www.nuget.org/profiles/KrVivek"><img src="https://img.shields.io/badge/NuGet-KrVivek-70a5fd?style=for-the-badge&logo=nuget&logoColor=white&labelColor=1a1b27" alt="NuGet profile" /></a>
 <a href="https://marketplace.visualstudio.com/items?itemName=KumVivek.copilot-usage-monitor"><img src="https://img.shields.io/badge/VS%20Code-Copilot%20Usage%20Monitor-70a5fd?style=for-the-badge&labelColor=1a1b27" alt="Copilot Usage Monitor VS Code extension" /></a>
 <a href="https://github.com/KumVivek?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKumVivek&query=%24.public_repos&label=repositories&style=for-the-badge&logo=github&logoColor=white&color=70a5fd&labelColor=1a1b27" alt="Public repositories" /></a>
