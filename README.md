@@ -32,7 +32,7 @@ public sealed class VivekKumar : Engineer
     [
         "C#", ".NET", "ASP.NET Core",
         "gRPC", "Docker", "Kubernetes",
-        "React", "Python"
+        "React", "Python", "Azure"
     ];
 
     public string[] Exploring =>
