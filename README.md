@@ -56,7 +56,7 @@ public sealed class VivekKumar : Engineer
 <summary><b>Languages and frameworks</b></summary>
 <br />
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,py,js,react,html,css,solidity&theme=dark" alt="C#, .NET, Python, JavaScript, React, HTML, CSS, Solidity" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,go,py,js,react,html,css,solidity&theme=dark" alt="C#, .NET, Go, Python, JavaScript, React, HTML, CSS, Solidity" />
 
 </details>
 
@@ -64,7 +64,7 @@ public sealed class VivekKumar : Engineer
 <summary><b>Cloud and DevOps</b></summary>
 <br />
 
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,jenkins,githubactions&theme=dark" alt="Azure, Docker, Kubernetes, Jenkins, GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,githubactions&theme=dark" alt="AWS, Azure, Docker, Kubernetes, Jenkins, GitHub Actions" />
 
 </details>
 
@@ -72,7 +72,7 @@ public sealed class VivekKumar : Engineer
 <summary><b>Data</b></summary>
 <br />
 
-<img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" alt="PostgreSQL, Redis" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,elasticsearch&theme=dark" alt="PostgreSQL, Redis, Elasticsearch" />
 <img src="https://img.shields.io/badge/SQL%20Server-1a1b27?style=for-the-badge&logoColor=white" alt="SQL Server" />
 <img src="https://img.shields.io/badge/EF%20Core-1a1b27?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
 
