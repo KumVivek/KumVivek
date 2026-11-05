@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="180" viewBox="0 0 400 180" role="img" aria-label="gRPC Samples: Unary and server-streaming gRPC services in .NET, with clients and shared protobuf contracts.">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+.t{font-size:18px;font-weight:600;fill:#70a5fd}.r{font-size:12px;fill:#7a83ad}.d{font-size:13.5px;fill:#c0caf5}.l{font-size:12.5px;fill:#a9b1d6}
+.card{animation:in .7s ease-out both}@keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.card{animation:none}}
+</style>
+<g class="card"><rect x="1" y="1" width="398" height="178" rx="10" fill="#1a1b27" stroke="#2f3549"/>
+<rect x="1" y="16" width="3" height="34" rx="1.5" fill="#bf91f3"/>
+<text x="24" y="36" class="t">gRPC Samples</text><text x="24" y="56" class="r">KumVivek/gRPC</text>
+<text x="24" y="84" class="d">Unary and server-streaming gRPC services in .NET,</text><text x="24" y="105" class="d">with clients and shared protobuf contracts.</text>
+<circle cx="30" cy="156" r="6" fill="#178600"/><text x="44" y="160" class="l">C#</text></g>
+</svg>

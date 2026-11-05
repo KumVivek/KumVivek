@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="180" viewBox="0 0 400 180" role="img" aria-label="RepoSentinel: Analyzes a codebase for architecture, security and quality risks, then generates enforceable GitHub Copilot guardrails.">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+.t{font-size:18px;font-weight:600;fill:#70a5fd}.r{font-size:12px;fill:#7a83ad}.d{font-size:13.5px;fill:#c0caf5}.l{font-size:12.5px;fill:#a9b1d6}
+.card{animation:in .7s ease-out both}@keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.card{animation:none}}
+</style>
+<g class="card"><rect x="1" y="1" width="398" height="178" rx="10" fill="#1a1b27" stroke="#2f3549"/>
+<rect x="1" y="16" width="3" height="34" rx="1.5" fill="#bf91f3"/>
+<text x="24" y="36" class="t">RepoSentinel</text><text x="24" y="56" class="r">KumVivek/copilot-instruction-agent</text>
+<text x="24" y="84" class="d">Analyzes a codebase for architecture, security and</text><text x="24" y="105" class="d">quality risks, then generates enforceable GitHub</text><text x="24" y="126" class="d">Copilot guardrails.</text>
+<circle cx="30" cy="156" r="6" fill="#3572A5"/><text x="44" y="160" class="l">Python</text></g>
+</svg>
